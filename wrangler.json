@@ -1,7 +1,7 @@
 {
   "main": ".open-next/worker.js",
   "name": "crochetculture",
-  "compatibility_date": "2026-03-30",
+  "compatibility_date": "2026-03-27",
   "compatibility_flags": [
     "nodejs_compat"
   ],
