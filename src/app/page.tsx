@@ -32,7 +32,7 @@ export default function Home() {
             </div>
             <div className="order-1 md:order-2 relative">
               <div className="aspect-[4/5] rounded-[2rem] overflow-hidden shadow-2xl relative">
-                <Image fill sizes="(max-width: 768px) 100vw, 50vw" priority className="object-cover" alt="Softly lit portrait of Reena" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAx28mv2HXJEnh6Zs-FDg3NgGaRobfinXZSAG9jKI-XokIH7Mh2-immJX3vjPNPFUNbtHQZJLuqGTqBB7FJhR_emjuFzdSKaqQY05PTuM25VW3bxuRHyHa5zRjZgTrXVPl1nt7w-V8hO5v2211wKvtbZuo8ZH_NQWbdsloO9_Q4sT55ZY4_qk_H9srHwkd1FcrojNOtDtvusvX0KB0l0CFB9JxKFPskS8YdlfY1m3JXl12uGul4bbiCBbPC4LAr10nm9BLO8qsGcNo"/>
+                <Image unoptimized fill sizes="(max-width: 768px) 100vw, 50vw" priority className="object-cover" alt="Softly lit portrait of Reena" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAx28mv2HXJEnh6Zs-FDg3NgGaRobfinXZSAG9jKI-XokIH7Mh2-immJX3vjPNPFUNbtHQZJLuqGTqBB7FJhR_emjuFzdSKaqQY05PTuM25VW3bxuRHyHa5zRjZgTrXVPl1nt7w-V8hO5v2211wKvtbZuo8ZH_NQWbdsloO9_Q4sT55ZY4_qk_H9srHwkd1FcrojNOtDtvusvX0KB0l0CFB9JxKFPskS8YdlfY1m3JXl12uGul4bbiCBbPC4LAr10nm9BLO8qsGcNo"/>
               </div>
               {/* Decorative Elements */}
               <div className="absolute -bottom-8 -left-8 w-48 h-48 bg-tertiary-fixed rounded-full mix-blend-multiply opacity-30 blur-3xl"></div>
@@ -53,7 +53,7 @@ export default function Home() {
               {/* Product 1 */}
               <div className="group flex flex-col bg-surface-container-lowest rounded-2xl p-4 shadow-sm hover:shadow-xl transition-shadow duration-500 border border-outline-variant/10">
                 <div className="aspect-[4/5] rounded-xl overflow-hidden mb-6 relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Earthy Summer Tote" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAaqaCkHiZhhNVfRfob8wWRrzlnA3MyWlk9MdrA5iwPSK65yB8zg9ox9DWxF_fvkJK0W9S-mjQjKY559jvMTzSCMfG8XelaxjRan7Mz7IuB2zNWOrXr8B8YNW9_qxdM2nlxzzxDmVf7olaG_2bed-0hppyVLdUDhEnNn8mL3fmr00tC_N6y6D3P4oejzh8SqnXuJKys8TEHHfejpfKna2CVXPPHtz3FQe13KbJ17fDQmLyc80ppabvvn3czbEJZRm7r4eDGW63QapA" />
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Earthy Summer Tote" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAaqaCkHiZhhNVfRfob8wWRrzlnA3MyWlk9MdrA5iwPSK65yB8zg9ox9DWxF_fvkJK0W9S-mjQjKY559jvMTzSCMfG8XelaxjRan7Mz7IuB2zNWOrXr8B8YNW9_qxdM2nlxzzxDmVf7olaG_2bed-0hppyVLdUDhEnNn8mL3fmr00tC_N6y6D3P4oejzh8SqnXuJKys8TEHHfejpfKna2CVXPPHtz3FQe13KbJ17fDQmLyc80ppabvvn3czbEJZRm7r4eDGW63QapA" />
                 </div>
                 <div className="flex-1 flex flex-col">
                   <div className="flex justify-between items-start gap-4 mb-3">
@@ -73,7 +73,7 @@ export default function Home() {
               {/* Product 2 */}
               <div className="group flex flex-col bg-surface-container-lowest rounded-2xl p-4 shadow-sm hover:shadow-xl transition-shadow duration-500 border border-outline-variant/10">
                 <div className="aspect-[4/5] rounded-xl overflow-hidden mb-6 relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Amigurumi Bunny" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBz5lCs_oEAgNGPsCy6C1j99fH2AdupkMy8J2SyFhCsj0YWTwniDNM2Do1ZzGcd5Ry8Fct4kfGLPaao9Dc_7Rrp9MPLTBf2GxGDtrow2JRnx4E1mAfbYQqGiyRDL-im_1ZSHOUnNYls8OtR0OHOXq-CmkleA_5FAn4Znpqcz-pDSOGfQYxuAzXQ16OaK_wnhNvMB3D13LraDJ0hzdzpWjAF41aVL11J-3rpL-nrIOIskXmNNL5iqkfmmS8VTXkg4jvF4Dj0GYCP_X4" />
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Amigurumi Bunny" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBz5lCs_oEAgNGPsCy6C1j99fH2AdupkMy8J2SyFhCsj0YWTwniDNM2Do1ZzGcd5Ry8Fct4kfGLPaao9Dc_7Rrp9MPLTBf2GxGDtrow2JRnx4E1mAfbYQqGiyRDL-im_1ZSHOUnNYls8OtR0OHOXq-CmkleA_5FAn4Znpqcz-pDSOGfQYxuAzXQ16OaK_wnhNvMB3D13LraDJ0hzdzpWjAF41aVL11J-3rpL-nrIOIskXmNNL5iqkfmmS8VTXkg4jvF4Dj0GYCP_X4" />
                 </div>
                 <div className="flex-1 flex flex-col">
                   <div className="flex justify-between items-start gap-4 mb-3">
@@ -93,7 +93,7 @@ export default function Home() {
               {/* Product 3 */}
               <div className="group flex flex-col bg-surface-container-lowest rounded-2xl p-4 shadow-sm hover:shadow-xl transition-shadow duration-500 border border-outline-variant/10">
                 <div className="aspect-[4/5] rounded-xl overflow-hidden mb-6 relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Chunky Winter Beanie" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAnJZfBUe8yjp_QnuAaThH3TMnPgGV3tsZW8Q6-916ZGAfbgGMb4i5rz_xog1z6q0ka8pkPCsZWCStSZzT6bXhbPHmZ0VfHKx-JuDGpjM1W1FTLvkYUvi_HgWn-xdmDk_VFBmxiI7ZrbFwSVk8s1YmrAMQgRwaWNJQR1s8wsNfoeUBsFSUfeM52RSiwxrfVLKTUkNb_zrrIS0gbxaScimtj2DIJjJQEYzZONCcaHwG6GmVFzGDxhjtB5FajSEfBADZLSrWtLcYMUvE" />
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Chunky Winter Beanie" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAnJZfBUe8yjp_QnuAaThH3TMnPgGV3tsZW8Q6-916ZGAfbgGMb4i5rz_xog1z6q0ka8pkPCsZWCStSZzT6bXhbPHmZ0VfHKx-JuDGpjM1W1FTLvkYUvi_HgWn-xdmDk_VFBmxiI7ZrbFwSVk8s1YmrAMQgRwaWNJQR1s8wsNfoeUBsFSUfeM52RSiwxrfVLKTUkNb_zrrIS0gbxaScimtj2DIJjJQEYzZONCcaHwG6GmVFzGDxhjtB5FajSEfBADZLSrWtLcYMUvE" />
                 </div>
                 <div className="flex-1 flex flex-col">
                   <div className="flex justify-between items-start gap-4 mb-3">
@@ -113,7 +113,7 @@ export default function Home() {
               {/* Product 4 */}
               <div className="group flex flex-col bg-surface-container-lowest rounded-2xl p-4 shadow-sm hover:shadow-xl transition-shadow duration-500 border border-outline-variant/10">
                 <div className="aspect-[4/5] rounded-xl overflow-hidden mb-6 relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Boho Daisy Keychains" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAA6gEoDDfU2m8qQFz16-gXQtX1CuljXgOMIggXk2NBIr3VjqKY93u3shQkh-O0vc_kt153G0tZUujk6cj5-C2aEZXhuKCwVEdI29eENE5J9azUZUO4dfsVJKXoEO9HudpplmVJKuIeuN-x7qWq78ADvGh0vV6OAkdK3gtBy9H892oC3j5XWSrOuJzZ-NC3PTPnOp2ZH6-bhSwlF0XDUI63TqL3M5P5HXaIFeQDtOVSGhi67WGraJ7MW1WLe-3gnBuEJaDplDBAJbE" />
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 25vw" className="object-cover group-hover:scale-105 transition-transform duration-700" alt="Boho Daisy Keychains" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAA6gEoDDfU2m8qQFz16-gXQtX1CuljXgOMIggXk2NBIr3VjqKY93u3shQkh-O0vc_kt153G0tZUujk6cj5-C2aEZXhuKCwVEdI29eENE5J9azUZUO4dfsVJKXoEO9HudpplmVJKuIeuN-x7qWq78ADvGh0vV6OAkdK3gtBy9H892oC3j5XWSrOuJzZ-NC3PTPnOp2ZH6-bhSwlF0XDUI63TqL3M5P5HXaIFeQDtOVSGhi67WGraJ7MW1WLe-3gnBuEJaDplDBAJbE" />
                 </div>
                 <div className="flex-1 flex flex-col">
                   <div className="flex justify-between items-start gap-4 mb-3">
@@ -173,7 +173,7 @@ export default function Home() {
                 </div>
                 <div className="relative">
                   <div className="aspect-square rounded-full overflow-hidden border-[12px] border-surface-container relative">
-                    <Image fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" alt="Artistic flat lay of yarn" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBorqryixN5FLf4-YHmqlSR-yGxiNkqUxsHhefMYEzOKhHwrLq2uYzk9inBlJmC-yi6cCBEoxYl29plTagG2qjppa7i6XTHOYMKDExFpd55smsr87_-Sl2QuDFGevWuj_KWNZ9vyAnirWlW7uUoy3c0Uq8Ury3OzD42QCy5m5j4dGTRmOQc4lZ6igk9U-B8wjzplmQUtoEA53szmcQ8exxD6pr_5SKmP0EKRBcpNw7qDWiAApwJqW-ANiILu7TMVFRvb_RhS_XdICY"/>
+                    <Image unoptimized fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" alt="Artistic flat lay of yarn" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBorqryixN5FLf4-YHmqlSR-yGxiNkqUxsHhefMYEzOKhHwrLq2uYzk9inBlJmC-yi6cCBEoxYl29plTagG2qjppa7i6XTHOYMKDExFpd55smsr87_-Sl2QuDFGevWuj_KWNZ9vyAnirWlW7uUoy3c0Uq8Ury3OzD42QCy5m5j4dGTRmOQc4lZ6igk9U-B8wjzplmQUtoEA53szmcQ8exxD6pr_5SKmP0EKRBcpNw7qDWiAApwJqW-ANiILu7TMVFRvb_RhS_XdICY"/>
                   </div>
                   <div className="absolute -top-4 -right-4 bg-tertiary-fixed p-6 rounded-2xl shadow-lg rotate-3 hidden md:block">
                     <span className="material-symbols-outlined text-4xl text-on-tertiary-fixed">auto_fix_high</span>
@@ -199,7 +199,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row items-center gap-20">
               <div className="w-full md:w-1/2 relative">
                 <div className="aspect-[3/4] rounded-2xl overflow-hidden relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" alt="Portrait of Reena" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtvZG2MSs5AynLpmSF4QiOMye0L1CgKjsNE13JZEMisvl57lB_s9zISnp7FALZcISnEmzzb31UZBM8fDD6T2fNtKX3Bt5tveEV4LJRp15bVrGro78XWokSw_0WQ0dHB9jN0LZvMPBex9zVvOfJz8Bzg3Yvq7GBsz-NAY9HCvgYkPnA9pB44OBai1Y_qPtBU_YK9IzqEjUouCzeDpPbvSoCxYDb-5PYqzS-bMG8j1EwRnReE3TJ41-B-6WZNFJQ86dGX99kbdCFUag"/>
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 50vw" className="object-cover" alt="Portrait of Reena" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtvZG2MSs5AynLpmSF4QiOMye0L1CgKjsNE13JZEMisvl57lB_s9zISnp7FALZcISnEmzzb31UZBM8fDD6T2fNtKX3Bt5tveEV4LJRp15bVrGro78XWokSw_0WQ0dHB9jN0LZvMPBex9zVvOfJz8Bzg3Yvq7GBsz-NAY9HCvgYkPnA9pB44OBai1Y_qPtBU_YK9IzqEjUouCzeDpPbvSoCxYDb-5PYqzS-bMG8j1EwRnReE3TJ41-B-6WZNFJQ86dGX99kbdCFUag"/>
                 </div>
               </div>
               <div className="w-full md:w-1/2 space-y-8">
@@ -240,7 +240,7 @@ export default function Home() {
               {/* Post 1 */}
               <article className="bg-surface-container-lowest rounded-2xl overflow-hidden group">
                 <div className="aspect-video overflow-hidden relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDOa2Lpjb0iwnmy_YVWpGBvBOXsqCzQc1WpOdSxL8kif9IJ9cuI2AXtCS9-ojytHJZsl2BuDElylj6fo8reDoqfFjfhhqFfxcAZgB_Ylu6sWnB_IAysvjF0ERbIBLPzXBiuSB28GAsR7vbQno1JobV9V0cjbDxSpuhGe_mKQ7BTXWUG8xF8Cgd0Iuo-mcfBlpGTYIfg7seNaHOPBk3p_9A9RDrGpFjreQWUDLTuwgyGSKDHlXcFzJ-149Lt04C94V80_oAoaPUdZiQ"/>
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDOa2Lpjb0iwnmy_YVWpGBvBOXsqCzQc1WpOdSxL8kif9IJ9cuI2AXtCS9-ojytHJZsl2BuDElylj6fo8reDoqfFjfhhqFfxcAZgB_Ylu6sWnB_IAysvjF0ERbIBLPzXBiuSB28GAsR7vbQno1JobV9V0cjbDxSpuhGe_mKQ7BTXWUG8xF8Cgd0Iuo-mcfBlpGTYIfg7seNaHOPBk3p_9A9RDrGpFjreQWUDLTuwgyGSKDHlXcFzJ-149Lt04C94V80_oAoaPUdZiQ"/>
                 </div>
                 <div className="p-8">
                   <span className="text-xs font-bold text-on-surface-variant/60 uppercase tracking-widest block mb-3">April 12, 2024</span>
@@ -251,7 +251,7 @@ export default function Home() {
               {/* Post 2 */}
               <article className="bg-surface-container-lowest rounded-2xl overflow-hidden group">
                 <div className="aspect-video overflow-hidden relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCVsAj3jvyXwgqFYC801FSQqK0EmQChfsc2GepldGCABlCLS-mxKYaIY9bvMNYHwHx098JrNL2boK11h5m6-_LIXHz4e4nI1j9FkDSOfCso9232H_VLQlRQmRsOerfZm-fL7o8_ZH6EZ7oPNEpOIXxsB1nWc-vYBQctdhK08pjdDID406iNmD1JLvi-yAn2E1AeUtc3hSeRRC8WsXvWqkWp-UZFaecR4KzBFIgU72CGZdfbQyN14Ah-MjyEXFKLXuBjN44incLQ3xk"/>
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCVsAj3jvyXwgqFYC801FSQqK0EmQChfsc2GepldGCABlCLS-mxKYaIY9bvMNYHwHx098JrNL2boK11h5m6-_LIXHz4e4nI1j9FkDSOfCso9232H_VLQlRQmRsOerfZm-fL7o8_ZH6EZ7oPNEpOIXxsB1nWc-vYBQctdhK08pjdDID406iNmD1JLvi-yAn2E1AeUtc3hSeRRC8WsXvWqkWp-UZFaecR4KzBFIgU72CGZdfbQyN14Ah-MjyEXFKLXuBjN44incLQ3xk"/>
                 </div>
                 <div className="p-8">
                   <span className="text-xs font-bold text-on-surface-variant/60 uppercase tracking-widest block mb-3">March 28, 2024</span>
@@ -262,7 +262,7 @@ export default function Home() {
               {/* Post 3 */}
               <article className="bg-surface-container-lowest rounded-2xl overflow-hidden group">
                 <div className="aspect-video overflow-hidden relative">
-                  <Image fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLUOIyuNgC8ThIrfaz5HSjbk8S9imJ8b7qENrt1UV8epGJLiqvYRQsOryl3Se5XewcfitKzO-r5TgOamcc3KzG3TO6o8PEE1mttZQOizdY8I4yyS8UNxlJAbbVZ-8iVVxzFKoQICZN6TXGQu7V0A7mU1E-WhO_zh8hgU1DPzWvK8XADAkOvLWXuyEGdwIRThj_zIMbr2eLt1Zt2gYX9pHoXZNFAjX9BtD_MMeHBgm1DPrZhPQgmfI7BBWeix7Mml_HMQIAIJcZxHA"/>
+                  <Image unoptimized fill sizes="(max-width: 768px) 100vw, 33vw" className="object-cover group-hover:scale-105 transition-transform duration-500" alt="Journal Photo" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLUOIyuNgC8ThIrfaz5HSjbk8S9imJ8b7qENrt1UV8epGJLiqvYRQsOryl3Se5XewcfitKzO-r5TgOamcc3KzG3TO6o8PEE1mttZQOizdY8I4yyS8UNxlJAbbVZ-8iVVxzFKoQICZN6TXGQu7V0A7mU1E-WhO_zh8hgU1DPzWvK8XADAkOvLWXuyEGdwIRThj_zIMbr2eLt1Zt2gYX9pHoXZNFAjX9BtD_MMeHBgm1DPrZhPQgmfI7BBWeix7Mml_HMQIAIJcZxHA"/>
                 </div>
                 <div className="p-8">
                   <span className="text-xs font-bold text-on-surface-variant/60 uppercase tracking-widest block mb-3">March 05, 2024</span>
